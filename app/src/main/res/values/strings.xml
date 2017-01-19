@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MGNREGA</string>
+    <string name="title_activity_pre_data_entry">PreDataEntry</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_send_number">SendNumber</string>
+</resources>
